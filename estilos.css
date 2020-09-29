@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(https://blog.aulaformativa.com/wp-content/uploads/2016/06/fondos-de-pantalla-para-programadores-CodeWallpaper3.jpg);   
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+h1{color: blue; font-size: 26px;}
+
+h2{color: blue;}
+p {font-family: "Verdana" ;}
